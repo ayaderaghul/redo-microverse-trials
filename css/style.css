@@ -8,8 +8,11 @@
     padding: 5rem;
     text-align: center;
 }
+
 #image {
     width: 100%;
+    max-width: 100%;
+    display: block;
 }
 #img-div {
     text-align: center;
