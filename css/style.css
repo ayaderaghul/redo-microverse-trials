@@ -1,0 +1,16 @@
+#main {
+    font-family: sans-serif;
+}
+
+#title {
+    background-color: #eee;
+    width: 100%;
+    padding: 5rem;
+    text-align: center;
+}
+#image {
+    width: 100%;
+}
+#img-div {
+    text-align: center;
+}
